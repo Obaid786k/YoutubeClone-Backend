@@ -1,0 +1,15 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "This service will provide user details and ragister/login feature and show all post of user with their subscriber and subscribe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "sam",
+  "license": "ISC"
+}
